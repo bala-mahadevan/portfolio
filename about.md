@@ -27,7 +27,7 @@ I work with clients in two ways:
 
 I'm open to freelance technical writing and content strategy engagements. The best way to reach me:
 <ul>
-  <li>**Email:** <a href="balasubramanian41@gmail.com" target="_blank" rel="noopener noreferrer">balasubramanian41@gmail.com</a></li>
-  <li>**LinkedIn:** <a href="https://www.linkedin.com/in/bala-mahadevan" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/in/bala-mahadevan</a>https://www.linkedin.com/in/bala-mahadevan</li>
-  <li>**Resume:** <a href="assets/pdfs/Balasubramanian_Mahadevan_Resume.pdf" target="_blank" rel="noopener noreferrer">Download my resume</a></li>
-  <li>**Book a call:** <a href="https://calendly.com/bala-mahadevan/30min" target="_blank" rel="noopener noreferrer">Schedule a free 15-minute intro call</a> — see if we're a good fit before any commitment.</li></ul>
+  <li><bold>Email:</bold> <a href="balasubramanian41@gmail.com" target="_blank" rel="noopener noreferrer">balasubramanian41@gmail.com</a></li>
+  <li><bold>LinkedIn:</bold> <a href="https://www.linkedin.com/in/bala-mahadevan" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/in/bala-mahadevan</a></li>
+  <li><bold>Resume:</bold> <a href="assets/pdfs/Balasubramanian_Mahadevan_Resume.pdf" target="_blank" rel="noopener noreferrer">Download my resume</a></li>
+  <li><bold>Book a call:</bold> <a href="https://calendly.com/bala-mahadevan/30min" target="_blank" rel="noopener noreferrer">Schedule a free 15-minute intro call</a> — see if we're a good fit before any commitment.</li></ul>
