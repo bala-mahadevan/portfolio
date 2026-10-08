@@ -17,7 +17,7 @@ This page contains additional documentation samples that showcase skills beyond 
 
 **PDF:** <a href="assets/pdfs/aws_iam_createrolesandpolicies.pdf" target="_blank" rel="noopener noreferrer">Download PDF</a>
 
-##Content Strategy
+## Content Strategy
 
 ### User Persona Sample
 
@@ -27,7 +27,7 @@ This page contains additional documentation samples that showcase skills beyond 
 
 **PDF:** <a href="assets/pdfs/userpersona_gaming.pdf" target="_blank" rel="noopener noreferrer">Download PDF</a>
 
-##Pre-Sales & Proposal Writing
+## Pre-Sales & Proposal Writing
 
 ### SEO Content Proposal
 
